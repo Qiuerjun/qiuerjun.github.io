@@ -1,6 +1,6 @@
 ---
 title: Hello World
-top_img: \images\Snipaste_2026-06-06_22-28-02.png
+top_img: https://bpic.588ku.com/back_our/bg/20200819/bg/10f353d76bcdf_396574.jpg
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 

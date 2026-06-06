@@ -6,7 +6,7 @@ tags:
   - AI
   - TRPG
   - Next.js
-top_img:
+top_img: https://bpic.588ku.com/back_our/bg/20200819/bg/10f353d76bcdf_396574.jpg
 comments: true
 ---
 
